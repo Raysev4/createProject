@@ -1,0 +1,22 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4, h5 {
+    color: red;
+    margin-left: 10px; /*Apply indentation*/
+    margin-top: 10px;
+}
+
+p {
+    margin-left: 10px; /*Apply indentation*/
+    margin-top: 10px;
+}
+
+.p1{
+
+}
+
+#p2 {
+
+}
